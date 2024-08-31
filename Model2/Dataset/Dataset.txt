@@ -1,0 +1,1 @@
+ Dataset can be Downloaded from: https://www.kaggle.com/datasets/rishianand/devanagari-character-set?resource=download
